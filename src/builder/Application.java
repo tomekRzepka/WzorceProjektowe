@@ -10,6 +10,7 @@ public class Application {
 //        user.setLastName("Rzepka");
 //        user.setPhoneNumber("1234567890");
 //        user.setAge(27);
+
         User user = User.builder()
                 .firstName("Ola")
                 .lastName("Zyto")
