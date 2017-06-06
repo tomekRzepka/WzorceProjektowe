@@ -27,7 +27,7 @@ public class EmergencyChain {
                 flag = true;
             }
         }
-        invoke(ChainElement);
+        invoke(new ChainElement);
 
     }
 
